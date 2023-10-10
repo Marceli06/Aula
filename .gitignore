@@ -1,0 +1,15 @@
+# Criado por https://www.toptal.com/developers/gitignore/api/netbeans
+# Edite em https://www.toptal.com/developers/gitignore?templates=netbeans
+
+###NetBeans###
+**/nbprojeto/privado/
+**/nbproject/Makefile-*.mk
+**/nbproject/Package-*.bash
+construir/
+nbconstruir/
+dist/
+nbdist/
+.nb-gradle/
+target/
+
+# Fim de https://www.toptal.com/developers/gitignore/api/netbeans
